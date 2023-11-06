@@ -9,10 +9,10 @@ consoleKeyMap = "us";
 defaultLocale = "en_US.UTF-8";
 };
 
-time.timeZone = "America/Los_Angeles";
+time.timeZone = "America/Chicago";
 
 programs.mtr.enable = true;
 programs.bash.enableCompletion = true;
 
-networking.hostName = "themelios-vm";
+networking.hostName = "nixos_mobile";
 }
